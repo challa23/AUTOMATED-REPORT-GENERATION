@@ -16,4 +16,3 @@
 
 *OUTPUT
 
- "Screen Recording 2025-07-02 153655.mp4".
